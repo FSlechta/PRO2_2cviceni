@@ -3,6 +3,6 @@ package com.cviceni2;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        //dobré znát - návrhový vzor Singleton
     }
 }
